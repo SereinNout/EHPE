@@ -9,3 +9,6 @@ To address this challenge, we propose a novel segmented architecture for enhance
 We perform local extraction of TIP and wrist, thus alleviating the effect of error accumulation on TIP prediction and further reduce the predictive errors for all joints on this basis.
 EHPE consists of two key stages: In the TIP and Wrist Joints Extraction stage (TW-stage), the positions of the TIP and wrist joints are estimated to provide an initial accurate joint configuration; In the Prior Guided Joints Estimation stage (PG-stage), a dual-branch interaction network is employed to refine the positions of the remaining joints. 
 Extensive experiments on two widely used benchmarks demonstrate that EHPE achieves state-of-the-arts performance.
+Our main contributions are summarized as follow:
+\begin{itemize}
+    \item We systematically analyze the phenomenon of error accumulation for distal joints in gesture estimation, clarify the importance of the TIP joints under the guidance of structural priors, and design a novel segmented architecture for enhanced hand pose estimation.
