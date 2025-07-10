@@ -1,5 +1,5 @@
 # EHPE: A Segmented Architecture for Enhanced Hand Pose Estimation
-!(https://raw.githubusercontent.com/SereinNout/EHPE/main/image/net.jpg)
+![网络结构](https://raw.githubusercontent.com/SereinNout/EHPE/main/image/net.jpg)
 
 # About
 3D hand pose estimation has garnered great attention in recent years due to its critical applications in human-computer interaction, virtual reality, and related fields.
