@@ -11,7 +11,7 @@ We perform local extraction of TIP and wrist, thus alleviating the effect of err
 - We systematically analyze the phenomenon of error accumulation for distal joints in gesture estimation, clarify the importance of the TIP joints under the guidance of structural priors, and design a novel segmented architecture for enhanced hand pose estimation.
 - We design a dual-branch structure in which one branch involves a graphic attention layer of the dynamic topology structure to utilize the hand structure prior with the guidance of TIP and wrist, while the other branch estimates the hand poses from the visual features.
 - Extensive experiments demonstrate the effectiveness of the proposed methods. Through comparison on public benchmarks, our EHPE surpasses all compared methods and achieves state-of-the-art performance.
-
+![对比图片](https://raw.githubusercontent.com/SereinNout/EHPE/main/image/compar_3.png)
 Paper link: 
 
 ## Dataset 
